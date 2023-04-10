@@ -1,0 +1,2 @@
+streamlit_prophet
+git+https://github.com/artefactory-global/streamlit_prophet.git@main
